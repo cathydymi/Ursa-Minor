@@ -1,2 +1,2 @@
-# Ursa-Minor
-UMi dwarf galaxy
+# UMi
+A dwarf galaxy
